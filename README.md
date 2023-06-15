@@ -9,6 +9,7 @@
 - 😄 Pronouns: He/Him
 - 💬 Ask me about taste
 - 📫 How to reach me: I am reachable through my [personal e-mail](mailto:gabeb1277@gmail.com) as well as through my [University e-mail](mailto:gjb1023@plymouth.edu)
+- ⚡ Fun fact: I am an [Internet Archive](https://archive.org/details/UnixProgrammingEnviornment/) enthusiast
 
 <!--
 **ToCodeABluejay/ToCodeABluejay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
