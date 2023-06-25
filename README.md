@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="picture.jpeg" style="width:500px;"/>
+<img src="picture.jpeg" style="width:350px;"/>
 
 ### My name is Gabriel Bauer. I am 22 years old, and I am currently studying Computer Science at Plymouth State University.
 - 🔭 I’m currently working on logical circuits, programming of various kinds, blogging, and perfecting my Asahi Linux install and Hyprland rice
