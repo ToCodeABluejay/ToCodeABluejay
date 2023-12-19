@@ -2,12 +2,11 @@
 <img src="picture.jpeg" style="width:350px;"/>
 
 ### My name is Gabriel Bauer. I am 22 years old, and I am currently studying Computer Science at Plymouth State University.
-- 🔭 I’m currently working on logical circuits, programming of various kinds, blogging, and perfecting my Hyprland rice and Neovim config
+- 🔭 I’m currently working on my Bachelor's Degree
 - 🌱 I’m currently learning computational theory and architecture
 - 👯 I’m looking to collaborate on fun, interesting, and challenging projects
-- 🤔 I’m looking for help with operating system development in general (and Linux specifically)
+- 🤔 I’m looking for help with operating system development
 - 😄 Pronouns: He/Him
-- 💬 Ask me about taste
 - 📫 How to reach me: I am reachable through my [personal e-mail](mailto:gabeb1277@gmail.com) as well as through my [University e-mail](mailto:gjb1023@plymouth.edu)
 - ⚡ Fun fact: I am an [Internet Archive](https://archive.org/details/UnixProgrammingEnviornment/) enthusiast
 
